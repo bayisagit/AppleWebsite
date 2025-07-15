@@ -9,7 +9,7 @@ import Iphone from './pages/Iphone/Iphone';
 import Mac from './pages/Mac/Mac';
 import Four04 from './pages/Four04/Four04';
 import Productpage from './pages/Productpage/Productpage';
-import Youtube from './components/Youtube/Youtube';
+import Youtube from './components/youtube/Youtube';
 import './css/styles.css';
 
 function App() {

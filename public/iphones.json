@@ -2,7 +2,7 @@
   "products":[
       {
         "product_url": "iphonese",
-        "product_img": "../src/images/image.png",
+        "product_img": "/images/image.png",
         "product_link": "https://www.apple.com/shop/buy-iphone/iphone-11",
         "product_name": "iPhone SE",
         "product_brief_description": "Lots to love. Less to spend.",
@@ -12,7 +12,7 @@
       },
       {
         "product_url": "iphone11",
-        "product_img": "../src/images/home/image.png",
+        "product_img": "/images/image1.png",
         "product_link": "https://www.apple.com/shop/buy-iphone/iphone-11",
         "product_name": "iPhone 11",
         "product_brief_description": "Lots to love. Less to spend.",
@@ -22,7 +22,7 @@
       },
       {
         "product_url": "iphone11pro",
-        "product_img": "../src/images/icons/image.png",
+        "product_img": "/images/image2.png",
         "product_link": "https://www.apple.com/shop/buy-iphone/iphone-11-pro",
         "product_name": "iPhone 11 Pro",
         "product_brief_description": "Pro cameras. Pro display. Pro performance.",

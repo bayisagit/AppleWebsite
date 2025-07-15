@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import $ from 'jquery';
-import flag from "../../images/icons/16.png";
+const flag = "/images/icons/16.png";
 
 function Footer() {
   return (

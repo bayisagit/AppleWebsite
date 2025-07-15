@@ -4,9 +4,9 @@ import { Navbar, Nav, Container } from 'react-bootstrap';
 
 import HeaderLink from "./HeaderLink/HeaderLink";
 
-import logo from "../../images/icons/logo-sm.png";
-import search from "../../images/icons/search-icon-sm.png";
-import cart from "../../images/icons/cart-sm.png";
+const logo = "./images/icons/logo-sm.png";
+const search = "./images/icons/search-icon-sm.png";
+const cart = "./images/icons/cart-sm.png";
 
 function Navigation() {
   return (

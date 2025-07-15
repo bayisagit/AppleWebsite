@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 
-import appletv from "../../images/icons/apple-tv-logo.png";
-import banker from "../../images/home/banker.png";
-import series5 from "../../images/icons/watch-series5-logo.png";
-import arcade from "../../images/icons/arcade.png";
+const appletv = "/images/icons/apple-tv-logo.png";
+const banker = "./images/home/banker.png";
+const series5 = "./images/icons/watch-series5-logo.png";
+const arcade = "./images/icons/arcade.png";
 
 import Fourth from "./Fourth/Fourth";
 import Rating from "./Rating/Rating";
